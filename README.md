@@ -8,7 +8,7 @@
 🛠️ I'm comfortable working with Docker, CI/CD, and Linux environments.  
 💬 Ask me about PHP, Python, Laravel, Django, database design, system architecture, or how to deal with legacy code and make it shine.  
 🔍 I care about code quality, meaningful architecture, and always keeping the user experience in mind — even from the backend.  
-📫 Reach me at: [mostafarabia64@gmail.com] 
+📫 Reach me at: [mostafarabia64@gmail.com]  
 🐙 Fun fact: I actually enjoy debugging 😅  
 
 ---
